@@ -1,0 +1,63 @@
+2.5.2017 AUSLEIHE:
+DVD:
+    Titel: Hellboy
+    Kommentar: Red - der dämonische Held aus der Unterwelt
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 2.5.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+2.5.2017 RUECKNAHME
+DVD:
+    Titel: Hellboy
+    Kommentar: Red - der dämonische Held aus der Unterwelt
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 2.5.2017 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+2.5.2017 AUSLEIHE:
+CD:
+    Titel: Garden State
+    Kommentar: Soundtrack
+    Interpret: Various
+    Spiellänge: 56
+am 2.5.2017 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+2.5.2017 AUSLEIHECD:
+    Titel: Breakaway
+    Kommentar: Nachfolger vom Album Tankful
+    Interpret: Kelly Clarkson
+    Spiellänge: 87
+am 2.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+2.5.2017 AUSLEIHECD:
+    Titel: Garden State
+    Kommentar: Soundtrack
+    Interpret: Various
+    Spiellänge: 56
+am 2.5.2017 verliehen an
+    Kundennummer: 123463
+    Name: Chuck Norris
+    Telefon: unbekannt
+    Anschrift:
+    Supermannweg 100
+    80331 München
