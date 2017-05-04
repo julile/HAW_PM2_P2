@@ -3,12 +3,10 @@ import org.junit.Test;
 
 public abstract class AbstractVideospielTest extends AbstractMediumTest{
 	
-
-    protected static final String BEZEICHNUNG = "Videospiel";
     protected static final String SYSTEM = "System";
-    private AbstractVideospiel _videoSpiel;
+    protected AbstractVideospiel _videoSpiel;
     
-    public AbstractVideospielTest()
+    protected AbstractVideospielTest()
     {
         _videoSpiel = getMedium();
     }
@@ -32,10 +30,7 @@ public abstract class AbstractVideospielTest extends AbstractMediumTest{
     }
     
     @Test
-    public void testGetMedienBezeichnung()
-    {
-        assertEquals(BEZEICHNUNG, _videoSpiel.getMedienBezeichnung());
-    }
+    public abstract void testGetMedienBezeichnung();
     
     @Test
     public void testeVideospiel()

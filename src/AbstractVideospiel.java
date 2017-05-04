@@ -5,7 +5,7 @@
  * @author SE2-Team, PR2-Team, PR2-Team
  * @version SoSe 2017
  */
-abstract class AbstractVideospiel extends AbstractMedium
+abstract class AbstractVideospiel extends AbstractMedium implements Medium
 {
 	/**
 	 * Der Basispreis, der beim ausleihen eines Videospiels anfällt
@@ -28,19 +28,13 @@ abstract class AbstractVideospiel extends AbstractMedium
      * 
      * @ensure getSystem() == system
      */
-    public AbstractVideospiel(String titel, String kommentar, String system)
+    protected AbstractVideospiel(String titel, String kommentar, String bezeichnung, String system)
     {
-    	super(titel, kommentar);
+    	super(titel, kommentar, bezeichnung);
     	
         assert system != null : "Vorbedingung verletzt: system != null";
 
         _system = system;
-    }
-
-    @Override
-    public String getMedienBezeichnung()
-    {
-        return "Videospiel";
     }
 
     /**
@@ -68,5 +62,5 @@ abstract class AbstractVideospiel extends AbstractMedium
     	return Geldbetrag.get (BASISPREIS + getPreisNachTagen(mietTage));
     }
     
-    public abstract int getPreisNachTagen(int mietTage);
+    protected abstract int getPreisNachTagen(int mietTage);
 }

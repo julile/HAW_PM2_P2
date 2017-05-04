@@ -6,8 +6,8 @@
  * @version SoSe 2017
  * 
  */
-class DVD extends AbstractMedium
-{
+class DVD extends AbstractMedium implements Medium {
+	
     /**
      * Die Laufzeit des Hauptteils der DVD (in Minuten).
      */
@@ -35,7 +35,7 @@ class DVD extends AbstractMedium
      */
     public DVD(String titel, String kommentar, String regisseur, int laufzeit)
     {
-    	super(titel,kommentar);
+    	super(titel,kommentar, "DVD");
     	
         assert laufzeit > 0 : "Vorbedingung verletzt: laufzeit > 0";
         assert regisseur != null : "Vorbedingung verletzt: regisseur != null";
@@ -69,12 +69,6 @@ class DVD extends AbstractMedium
     {
         assert laufzeit > 0 : "Vorbedingung verletzt: laufzeit > 0";
         _laufzeit = laufzeit;
-    }
-
-    @Override
-    public String getMedienBezeichnung()
-    {
-        return "DVD";
     }
 
     /**

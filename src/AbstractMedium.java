@@ -3,6 +3,7 @@ public abstract class AbstractMedium implements Medium {
 	
 	private String _titel;
 	private String _kommentar;
+	private String _medienBezeichnung;
 
 	/**
 	 * Setzt die Variablen der Medien
@@ -16,17 +17,19 @@ public abstract class AbstractMedium implements Medium {
 	 * @ensure getTitel() == titel
      * @ensure getKommentar() == kommentar
 	 */
-	public AbstractMedium (String titel, String kommentar){
+	protected AbstractMedium (String titel, String kommentar, String bezeichnung){
 		
         assert titel != null : "Vorbedingung verletzt: titel != null";
         assert kommentar != null : "Vorbedingung verletzt: kommentar != null";
+        assert bezeichnung != null : "Vorbedinung verletzt: bezeichnung !=null";
         
 		_titel = titel;
 		_kommentar = kommentar;
+		_medienBezeichnung = bezeichnung;
 	}
 	
 	/**
-	 * Gibt die allgemeinen Variablen als formtierten String zurück
+	 * Gibt die allgemeinen Variablen als formatierten String zurück
 	 */
 	@Override
 	public String getFormatiertenString (){
@@ -84,27 +87,32 @@ public abstract class AbstractMedium implements Medium {
      * @ensure getTitel() == titel
      */
 	@Override
-	public void setTitel (String titel){
-		
+	public void setTitel (String titel)
+	{
 		 assert titel != null : "Vorbedingung verletzt: titel != null";
 		 
 		_titel = titel;
 	}
 	
-	/** 
-	 * Berechnet die Mietgebühr in Eurocent für eine angegebene Mietdauer 
-	 * in Tagen  
+	/**
+	 * Berechnet die Mietgebühr in Eurocent für eine angegebene Mietdauer in
+	 * Tagen
 	 *
-	 * @param mietTage 
-	 *            Die Anzahl der Ausleihtage eines Mediums 
-	 * @return Die Mietgebühr in Eurocent als Geldbetrag 
-	 *  
-	 * @require mietTage > 0 
-	 *  
-	 * @ensure result != null 
-	 */ 
-	public Geldbetrag berechneMietgebuehr(int mietTage){
-		return Geldbetrag.get (mietTage*300);
+	 * @param mietTage
+	 *            Die Anzahl der Ausleihtage eines Mediums
+	 * @return Die Mietgebühr in Eurocent als Geldbetrag
+	 * 
+	 * @require mietTage > 0
+	 * 
+	 * @ensure result != null
+	 */
+	public Geldbetrag berechneMietgebuehr(int mietTage)
+	{
+		return Geldbetrag.get(mietTage * 300);
 	}
 
+	public String getMedienBezeichnung()
+	{
+		return _medienBezeichnung;
+	}
 }

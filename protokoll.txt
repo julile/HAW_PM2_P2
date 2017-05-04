@@ -61,3 +61,204 @@ am 2.5.2017 verliehen an
     Anschrift:
     Supermannweg 100
     80331 München
+4.5.2017 RUECKNAHMECD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 28.3.2017 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+4.5.2017 AUSLEIHECD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 4.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+4.5.2017 AUSLEIHEVideospiel:
+    Titel: Company of Heroes
+    Kommentar: Tales of Valor
+    System: Windows Vista/XP
+am 4.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+4.5.2017 RUECKNAHMECD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 4.5.2017 verliehen an
+    Kundennummer: 123458
+    Name: Klaus Müller
+    Telefon: unbekannt
+    Anschrift:
+    Müllerweg 1
+    22760 Hamburg
+4.5.2017 AUSLEIHECD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 RUECKNAHMECD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 RUECKNAHMECD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD3
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 RUECKNAHMECD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 RUECKNAHMECD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+4.5.2017 AUSLEIHECD:
+    Titel: CD3
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt

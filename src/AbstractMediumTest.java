@@ -10,7 +10,7 @@ public abstract class AbstractMediumTest
     private Medium _medium1;
     private Medium _medium2;
     
-    public AbstractMediumTest()
+    protected AbstractMediumTest()
     {
     	_medium1 = getMedium();
     	_medium2 = getMedium();

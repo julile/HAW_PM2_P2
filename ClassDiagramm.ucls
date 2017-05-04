@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="VerleihProtokollierer" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/VerleihProtokollierer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="246" x="1470" y="-184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ProtokollierException" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/ProtokollierException.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1029" y="-39"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="AbstractMedium" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/AbstractMedium.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2357" y="216"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="PCVideospielTest" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/PCVideospielTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="181" x="2493" y="490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="VerleihServiceImplTest" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/VerleihServiceImplTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="253" x="1683" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="VerleihServiceImpl" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/VerleihServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="429" x="266" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="PCVideospiel" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/PCVideospiel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="192" x="2121" y="845"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="KonsolenVideospielTest" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/KonsolenVideospielTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="181" x="2714" y="490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="VerleihService" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/VerleihService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="272" x="968" y="490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <enumeration id="10" language="java" name="VerleihProtokollierer.VerleihEreignis" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/VerleihProtokollierer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="173" x="1470" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="11" language="java" name="AusleihWerkzeug" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/AusleihWerkzeug.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="410" x="735" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="CD" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/CD.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="177" x="2020" y="490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="CDTest" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/CDTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="189" x="2018" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="Medium" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/Medium.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2362" y="-40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="AbstractMediumTest" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/AbstractMediumTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2043" y="-104"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="AbstractVideospielTest" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/AbstractVideospielTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="189" x="2493" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="RueckgabeWerkzeug" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/RueckgabeWerkzeug.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="245" x="1185" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="AbstractVideospiel" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/AbstractVideospiel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="216" x="2237" y="490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="DVD" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/DVD.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="177" x="2935" y="490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="DVDTest" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/DVDTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="189" x="2923" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="KonsolenVideospiel" project="Mediathek_VorlageBlatt02" 
+    file="/Mediathek_VorlageBlatt02/src/KonsolenVideospiel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="219" x="2353" y="845"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="22">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="23">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="24" name="_service">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="25" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="28">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="29" name="_dvd2">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="30" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="32" name="_verleihService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="33" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="35" name="_cd1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="36" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <bendpoint x="2194" y="-98"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="38" name="_medium2">        
+        <position height="0" width="0" x="485" y="-624"/>      
+      </attribute>      
+      <multiplicity id="39" minimum="0" maximum="1">        
+        <position height="0" width="0" x="485" y="-624"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="41">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="42" name="_cd2">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="43" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="45">    
+    <bendpoint x="2199" y="-123"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="46" name="_medium1">        
+        <position height="0" width="0" x="485" y="-624"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="1">        
+        <position height="0" width="0" x="485" y="-624"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <realization id="49">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <association id="51">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="52" name="_medienListe">        
+        <position height="0" width="0" x="485" y="-624"/>      
+      </attribute>      
+      <multiplicity id="53" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="485" y="-624"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="56">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="57" name="_videoSpiel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="59">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="61">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="62" name="_verleihService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="63" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="64">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <association id="65">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="66" name="_dvd1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="67" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

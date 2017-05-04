@@ -5,6 +5,8 @@ import org.junit.Test;
 
 public class KonsolenVideospielTest extends AbstractVideospielTest{
 
+	private static final String BEZEICHNUNG = "Konsolenspiel";
+	
     protected AbstractVideospiel getMedium(){
         return new KonsolenVideospiel(TITEL, KOMMENTAR, SYSTEM);
     }
@@ -16,4 +18,9 @@ public class KonsolenVideospielTest extends AbstractVideospielTest{
     	assertEquals (getMedium().berechneMietgebuehr (6), Geldbetrag.get(1600));
     	assertEquals (getMedium().berechneMietgebuehr (9), Geldbetrag.get(2300));
     }
+
+	@Override
+	public void testGetMedienBezeichnung() {
+		assertEquals(BEZEICHNUNG, _videoSpiel.getMedienBezeichnung());
+	}
 }

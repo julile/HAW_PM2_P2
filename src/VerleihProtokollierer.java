@@ -21,6 +21,7 @@ public class VerleihProtokollierer {
 		assert verleihkarte != null : "Vorbedinung verletzt: verleihkarte !=null";
 		
 //		System.out.println(Datum.heute()+" "+ereignis+verleihkarte.getFormatiertenString());
+		
 		try (FileWriter handle = new FileWriter("./protokoll.txt",true))
 		{
 //			FileWriter handle = new FileWriter("./protokoll.txt", true);

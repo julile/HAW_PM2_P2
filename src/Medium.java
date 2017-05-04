@@ -6,7 +6,7 @@
  * @author SE2-Team, PM2-Team
  * @version SoSe 2017
  */
-interface Medium
+public interface Medium
 {
 
     /**
@@ -19,7 +19,7 @@ interface Medium
      * 
      * @ensure result != null
      */
-    String getFormatiertenString();
+	public String getFormatiertenString();
 
     /**
      * Gibt den Kommentar zu diesem Medium zurück.
@@ -28,7 +28,7 @@ interface Medium
      * 
      * @ensure result != null
      */
-    String getKommentar();
+	public String getKommentar();
 
     /**
      * Ändert den Kommentar des Mediums
@@ -47,7 +47,7 @@ interface Medium
      * 
      * @ensure result != null
      */
-    String getMedienBezeichnung();
+    public String getMedienBezeichnung();
 
     /**
      * Gibt den Titel des Mediums zurück.
@@ -56,7 +56,7 @@ interface Medium
      * 
      * @ensure result != null
      */
-    String getTitel();
+    public String getTitel();
 
     /**
      * Ändert den Titel des Mediums.
@@ -80,6 +80,6 @@ interface Medium
      *  
      * @ensure result != null 
      */ 
-    Geldbetrag berechneMietgebuehr(int mietTage); 
+    public Geldbetrag berechneMietgebuehr(int mietTage); 
 
 }
